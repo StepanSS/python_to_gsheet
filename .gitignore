@@ -1,7 +1,7 @@
 # Credential for acc access
 creds.json
 
-/dir
+/test
 
 
-/gsheet_representation/venv
+/venv
